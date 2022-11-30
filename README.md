@@ -35,29 +35,22 @@ Word2Vec, Fastext, RNNs, CNNs, Naive Bayes to name a few.
 
 ![nlp-pipeline](https://user-images.githubusercontent.com/98907083/204885989-e5cfb89b-9758-4c78-b703-f4bcc52bf447.png)
 
+Our notebooks follow the classical NLP pipeline, we tried to test a set of techniques for each step in each notebook.
+
+To better understand our data, you can run the [EDA](https://github.com/Achraf-Trabelsi/PFA-NLP/blob/main/EDA.ipynb) notebook.
+
+Example : the [feature engineering](https://github.com/Achraf-Trabelsi/PFA-NLP/blob/main/Feature_Engineering.ipynb) notebook is good example following those steps with diffrent models running.
+
 
 ### Limitations
 
-* Due to hardware limitations we couldn't run complex models such as Transfers namely Bert.
+* Due to hardware limitations we couldn't run complex models such as Transformers namely Bert.
 * Due to time constraints we didn't finish the deployement phase, we focused all of our efforts on building rebost models.
 
 ## Resources (Documentation and other links)
 
 We provide useful link that can help you with understanding this project :
 
-*You can find a link for the project report with in length details [here](https://drive.google.com/file/d/1eH7tPCUZCi816QWIlSlGSV2yDcHhygmc/view?usp=sharing)
-*You can find the dataset [here](https://www.kaggle.com/competitions/feedback-prize-2021/data)
-
-
-## About Nuxeo
-
-Nuxeo Platform is an open source Content Services platform, written in Java. Data can be stored in both SQL & NoSQL databases.
-
-The development of the Nuxeo Platform is mostly done by Nuxeo employees with an open development model.
-
-The source code, documentation, roadmap, issue tracker, testing, benchmarks are all public.
-
-Typically, Nuxeo users build different types of information management solutions for [document management](https://www.nuxeo.com/solutions/document-management/), [case management](https://www.nuxeo.com/solutions/case-management/), and [digital asset management](https://www.nuxeo.com/solutions/dam-digital-asset-management/), use cases. It uses schema-flexible metadata & content models that allows content to be repurposed to fulfill future use cases.
-
-More information is available at [www.nuxeo.com](https://www.nuxeo.com).
+* You can find a link for the project report with in length details [here](https://drive.google.com/file/d/1eH7tPCUZCi816QWIlSlGSV2yDcHhygmc/view?usp=sharing)
+* You can find the dataset [here](https://www.kaggle.com/competitions/feedback-prize-2021/data)
 
