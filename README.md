@@ -41,6 +41,14 @@ To better understand our data, you can run the [EDA](https://github.com/Achraf-T
 
 Example : the [feature engineering](https://github.com/Achraf-Trabelsi/PFA-NLP/blob/main/Feature_Engineering.ipynb) notebook is good example following those steps with diffrent models running.
 
+### Results
+
+| Model     | f1-score      | 
+| --------- | ------------------- | 
+| BiLSTM+PoS |   0.7703       | 
+| SimpleBiLSTM      | 0.7626        | 
+| Random Forest       | 0.73        | 
+
 
 ### Limitations
 
@@ -56,7 +64,8 @@ We provide useful link that can help you with understanding this project :
 
 ## Contributors 
 
-[Achraf Trabelsi](https://github.com/Achraf-Trabelsi)
+[Achraf Trabelsi](https://github.com/Achraf-Trabelsi)  
+
 [Chedly ben Azizi](https://github.com/chedlyba)
 
 
