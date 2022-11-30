@@ -54,3 +54,9 @@ We provide useful link that can help you with understanding this project :
 * You can find a link for the project report with in length details [here](https://drive.google.com/file/d/1eH7tPCUZCi816QWIlSlGSV2yDcHhygmc/view?usp=sharing)
 * You can find the dataset [here](https://www.kaggle.com/competitions/feedback-prize-2021/data)
 
+## Contributors 
+
+[Achraf Trabelsi](https://github.com/Achraf-Trabelsi)
+[Chedly ben Azizi](https://github.com/chedlyba)
+
+
